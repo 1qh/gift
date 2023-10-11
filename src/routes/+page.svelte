@@ -25,7 +25,7 @@
 </script>
 
 {#if !ok}
-    <p class="text-5xl font-['Redressed']">BÓI TÌNH YÊU CÙNG BAN DỰ ÁN THANH NIÊN</p>
+    <p class="text-5xl font-['Redressed'] mb-5">BÓI TÌNH YÊU CÙNG BAN DỰ ÁN THANH NIÊN</p>
     <div class="w-80">
         <input type="text" placeholder="HỌ VÀ TÊN" class="m-1 rounded input" />
         <input
