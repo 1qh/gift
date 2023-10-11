@@ -10,11 +10,11 @@
     <div
         class="bg-cover bg-top bg-no-repeat lg:bg-[image:url('/src/assets/bg_desktop.svg')] bg-[image:url('/src/assets/bg_mobile.svg')] h-full">
         <LightSwitch class="opacity-5" />
-        <div class="flex items-center justify-center">
+        <!-- <div class="flex items-center justify-center">
             <img src={'/src/lib/logo1.svg'} alt="" width="110" class="mx-2" />
             <img src={'/src/lib/logo2.svg'} alt="" width="60" class="mx-2" />
             <img src={'/src/lib/logo3.svg'} alt="" width="80" class="mx-2" />
-        </div>
+        </div> -->
         <div class="container flex items-center justify-center h-full mx-auto">
             <div class="flex flex-col items-center text-center">
                 <slot />
