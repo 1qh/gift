@@ -35,7 +35,7 @@
             onblur="(this.type='text')"
             class="m-1 rounded input" />
         <div class="flex justify-center">
-            <Icon icon="mdi:heart" color="white" width="100" height="100" />
+            <Icon icon="ph:heart-light" width="100" height="100" />
         </div>
         <p class="text-2xl font-bold">BAN DỰ ÁN THANH NIÊN</p>
         <button class="m-4 btn variant-soft" on:click={click}>GỬI ĐI</button>
@@ -46,6 +46,6 @@
     <p class="text-3xl">{sentence}</p>
     <p class="text-3xl font-bold">X-PROJECTS CÓ QUÀ CHO CẬU NÈ!</p>
     <a href="https://bit.ly/tuyenctvhsvhvtc">
-        <img src="/src/assets/box.svg" alt="" width="200" />
+        <Icon icon="noto:wrapped-gift" width="200" />
     </a>
 {/if}
