@@ -28,12 +28,6 @@
     <p class="text-5xl font-['Redressed'] mb-5">BÓI TÌNH YÊU CÙNG BAN DỰ ÁN THANH NIÊN</p>
     <div class="w-80">
         <input type="text" placeholder="HỌ VÀ TÊN" class="m-1 rounded input" />
-        <input
-            placeholder="NGÀY THÁNG NĂM SINH"
-            type="text"
-            onfocus="(this.type='date')"
-            onblur="(this.type='text')"
-            class="m-1 rounded input" />
         <div class="flex justify-center">
             <Icon icon="ph:heart-light" width="100" height="100" />
         </div>
